@@ -213,7 +213,9 @@ android/keystores/debug.keystore
 
 # VSCODE
 jsconfig.json
-.vscode/launchReactNative.js
 example/yarn.lock
 example/package-lock.json
 /package-lock.json
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
